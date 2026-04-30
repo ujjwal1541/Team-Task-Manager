@@ -1,4 +1,7 @@
-a full-stack project management platform designed to help teams organize projects, manage tasks, and track progress efficiently. It features a modern React frontend and a Node.js + Express backend powered by Prisma ORM.
+A full-stack project management platform designed to help teams organize projects, manage tasks, and track progress efficiently. It features a modern React frontend and a Node.js + Express backend powered by Prisma ORM.
+Live URL Link : 
+https://team-task-manager-tn7h.onrender.com/
+
 
 Features
 User Authentication (Login / Signup)
